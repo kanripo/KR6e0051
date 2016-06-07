@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:52.480679
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:46
 #+TITLE: 度諸佛境界智光嚴經
 #+PROPERTY: CBETA_ID T10n0302
 #+PROPERTY: ID KR6e0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 302
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0051_T_000-0912a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0051_T_001-0912a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.302[Nos.303,304]¶
-
- 《度諸佛境界智光嚴經》¶
+No. 302 [Nos. 303, 304]¶
+《度諸佛境界智光嚴經》¶
 ¶
-失譯人名附秦錄¶
+失譯〔人名附秦錄〕－【宮】人〔名附秦錄〕－【宋】名附（三）＋秦【元】秦錄人〔名附秦錄〕－【宋】名附（三）＋秦【元】秦錄名附（三）＋秦【元】秦錄秦錄¶
 
 如是我聞：
 
@@ -389,7 +388,7 @@ No.302[Nos.303,304]¶
 增長此眾生焰摩天生善根，我令增長此眾¶
 生兜率陀天生善根，我令增長此眾生化樂¶
 天生善根，我令增長此眾生他化自在天生¶
-善根，我令增長此眾生乃至五淨居天生善¶
+善根，我令令增長此眾生乃至五淨居天生善¶
 根。文殊師利！如來不作意分別，我令增長¶
 此眾生種種王生善根，我令增長此眾生人¶
 生善根，我令增長此眾生富貴生善根。文殊¶
